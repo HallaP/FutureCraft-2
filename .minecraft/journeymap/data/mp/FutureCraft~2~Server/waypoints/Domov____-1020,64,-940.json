@@ -1,0 +1,17 @@
+{
+  "id": "Domov???_-1020,64,-940",
+  "name": "Domov???",
+  "icon": "waypoint-normal.png",
+  "x": -1020,
+  "y": 64,
+  "z": -940,
+  "r": 250,
+  "g": 0,
+  "b": 36,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

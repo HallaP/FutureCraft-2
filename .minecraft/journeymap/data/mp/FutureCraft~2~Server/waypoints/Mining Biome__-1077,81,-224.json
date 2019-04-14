@@ -1,0 +1,17 @@
+{
+  "id": "Mining Biome?_-1077,81,-224",
+  "name": "Mining Biome?",
+  "icon": "waypoint-normal.png",
+  "x": -1077,
+  "y": 81,
+  "z": -224,
+  "r": 103,
+  "g": 255,
+  "b": 94,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

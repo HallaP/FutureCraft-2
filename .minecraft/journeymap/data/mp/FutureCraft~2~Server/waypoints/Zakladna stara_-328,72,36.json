@@ -1,0 +1,17 @@
+{
+  "id": "Zakladna stara_-328,72,36",
+  "name": "Zakladna stara",
+  "icon": "waypoint-normal.png",
+  "x": -328,
+  "y": 72,
+  "z": 36,
+  "r": 97,
+  "g": 91,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

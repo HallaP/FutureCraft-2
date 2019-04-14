@@ -1,0 +1,17 @@
+{
+  "id": "Levandule_-1157,79,-693",
+  "name": "Levandule",
+  "icon": "waypoint-normal.png",
+  "x": -1157,
+  "y": 79,
+  "z": -693,
+  "r": 207,
+  "g": 0,
+  "b": 223,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

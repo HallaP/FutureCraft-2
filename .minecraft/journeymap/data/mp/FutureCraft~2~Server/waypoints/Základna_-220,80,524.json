@@ -1,0 +1,17 @@
+{
+  "id": "Základna_-220,80,524",
+  "name": "Základna",
+  "icon": "waypoint-normal.png",
+  "x": -220,
+  "y": 80,
+  "z": 524,
+  "r": 26,
+  "g": 248,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

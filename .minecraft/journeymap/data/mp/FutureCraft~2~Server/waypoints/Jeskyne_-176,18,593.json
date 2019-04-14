@@ -1,0 +1,17 @@
+{
+  "id": "Jeskyne_-176,18,593",
+  "name": "Jeskyne",
+  "icon": "waypoint-normal.png",
+  "x": -176,
+  "y": 18,
+  "z": 593,
+  "r": 98,
+  "g": 109,
+  "b": 229,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    6
+  ]
+}
