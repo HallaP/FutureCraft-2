@@ -12063,3 +12063,304 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [13:41:07] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - CustomOverridingResources took 0.001s
 [13:41:11] [Client thread/INFO] [PTRModelLib/]: Total mipmap : 1792 ms
 [13:41:42] [Client thread/DEBUG] [FML/]: Bar Finished: Texture Loading took 30.616s
+[13:41:46] [Client thread/DEBUG] [FML/]: Bar Finished: Mipmap generation took 3.527s
+[13:41:48] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 2.582s
+[13:41:48] [Client thread/INFO] [EnderCore/]: Removed 0 missing texture stacktraces. Tada!
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 2.773s
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/atlas/blocks.png took 37.484s
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/font/ascii.png took 0.002s
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - immersiveengineering:textures/misc/nixie_ascii.png took 0.002s
+[13:41:49] [Client thread/INFO] [ImmersiveEngineering/]: Stitching Revolver Textures!
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Finished: Texture Loading took 0.073s
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Finished: Mipmap generation took 0.000s
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 0.000s
+[13:41:49] [Client thread/INFO] [EnderCore/]: Removed 0 missing texture stacktraces. Tada!
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.061s
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/atlas/immersiveengineering/revolvers.png took 0.136s
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:dynamic/lightMap_1 took 0.000s
+[13:41:49] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/font/ascii_sga.png took 0.002s
+[13:41:54] [Client thread/DEBUG] [FML/]: Bar Finished: Texture Loading took 4.947s
+[13:41:54] [Client thread/DEBUG] [FML/]: Bar Finished: Mipmap generation took 0.164s
+[13:41:56] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 2.067s
+[13:41:56] [Client thread/INFO] [EnderCore/]: Removed 0 missing texture stacktraces. Tada!
+[13:41:56] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 2.146s
+[13:41:56] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/atlas/items.png took 7.601s
+[13:41:56] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading Texture Manager took 45.226s
+[13:41:56] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[13:41:56] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[13:41:57] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[13:41:57] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[13:41:57] [Client thread/DEBUG] [IC2.Audio/]: IC2 audio starting.
+[13:41:57] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[13:41:57] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[13:41:57] [Thread-32/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[13:41:57] [Thread-32/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:41:57] [Thread-32/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/WARN] [JABBA/]: JABBA-Debug Problem loading texture: extrautils:bw_(obsidian)
+[13:41:57] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading took 49.685s
+[13:41:57] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 49.685s
+[13:41:57] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 49.912s
+[13:41:57] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Not Enough Items/]: Mod Not Enough Items is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [AE2 Stuff/]: Mod AE2 Stuff is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Backpack/]: Mod Backpack is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [BD Lib/]: Mod BD Lib is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Better Builder's Wands/]: Mod Better Builder's Wands is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Brandon's Core/]: Mod Brandon's Core is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [BuildCraft/]: Mod BuildCraft is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [BC Transport/]: Mod BC Transport is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [BC Factory/]: Mod BC Factory is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [BC Silicon/]: Mod BC Silicon is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [BC Robotics/]: Mod BC Robotics is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [BC Energy/]: Mod BC Energy is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [BC Builders/]: Mod BC Builders is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [ChickenChunks/]: Mod ChickenChunks is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [CoFH Core/]: Mod CoFH Core is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Compact Solar Arrays/]: Mod Compact Solar Arrays is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Crafting Tweaks/]: Mod Crafting Tweaks is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Custom Main Menu/]: Mod Custom Main Menu is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [PTRModelLib/]: Mod PTRModelLib is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Decocraft/]: Mod Decocraft is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Draconic Evolution/]: Mod Draconic Evolution is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [EnderStorage/]: Mod EnderStorage is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Extra Utilities/]: Mod Extra Utilities is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Fast Leaf Decay/]: Mod Fast Leaf Decay is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Forestry for Minecraft/]: Mod Forestry for Minecraft is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Galacticraft Planets/]: Mod Galacticraft Planets is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Galacticraft Core/]: Mod Galacticraft Core is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Gravestone/]: Mod Gravestone is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [GraviGun/]: Mod GraviGun is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Hats/]: Mod Hats is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [In-Game wiki Mod/]: Mod In-Game wiki Mod is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Iron Chest/]: Mod Iron Chest is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [JABBA/]: Mod JABBA is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [JourneyMap/]: Mod JourneyMap is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Magical Crops/]: Mod Magical Crops is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Magical Crops: Armoury/]: Mod Magical Crops: Armoury is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Magical Crops: Decorative/]: Mod Magical Crops: Decorative is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Mantle/]: Mod Mantle is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MekanismGenerators/]: Mod MekanismGenerators is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MekanismTools/]: Mod MekanismTools is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MFR Compat: MagicalCrops/]: Mod MFR Compat: MagicalCrops is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MineFactory Reloaded/]: Mod MineFactory Reloaded is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MFR Compat: Applied Energistics/]: Mod MFR Compat: Applied Energistics is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MFR Compat: BuildCraft/]: Mod MFR Compat: BuildCraft is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MFR Compat: Forestry/]: Mod MFR Compat: Forestry is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MFR Compat: ForgeMicroblock/]: Mod MFR Compat: ForgeMicroblock is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MFR Compat: IC2/]: Mod MFR Compat: IC2 is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MFR Compat: Thermal Expansion/]: Mod MFR Compat: Thermal Expansion is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MFR Compat: Tinkers' Construct/]: Mod MFR Compat: Tinkers' Construct is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MFR Compat: Vanilla/]: Mod MFR Compat: Vanilla is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MineTweaker 3/]: Mod MineTweaker 3 is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Morph/]: Mod Morph is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Morpheus/]: Mod Morpheus is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [p455w0rd's Library/]: Mod p455w0rd's Library is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Pam's HarvestCraft/]: Mod Pam's HarvestCraft is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [PortalGun/]: Mod PortalGun is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [ProjectRed Core/]: Mod ProjectRed Core is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [ProjectRed Integration/]: Mod ProjectRed Integration is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [ProjectRed Transmission/]: Mod ProjectRed Transmission is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [ProjectRed Illumination/]: Mod ProjectRed Illumination is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [ProjectRed Expansion/]: Mod ProjectRed Expansion is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [ProjectRed Transportation/]: Mod ProjectRed Transportation is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [QuantumFlux/]: Mod QuantumFlux is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Resource Loader/]: Mod Resource Loader is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Solar Flux/]: Mod Solar Flux is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Steve's Factory Manager/]: Mod Steve's Factory Manager is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Storage Drawers/]: Mod Storage Drawers is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Storage Drawers: Biomes O' Plenty Pack/]: Mod Storage Drawers: Biomes O' Plenty Pack is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Thermal Dynamics/]: Mod Thermal Dynamics is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Thermal Expansion/]: Mod Thermal Expansion is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Thermal Foundation/]: Mod Thermal Foundation is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Torched/]: Mod Torched is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Traincraft/]: Mod Traincraft is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Waila Harvestability/]: Mod Waila Harvestability is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Forge Microblocks/]: Mod Forge Microblocks is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Forge Multipart/]: Mod Forge Multipart is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [Minecraft Multipart Plugin/]: Mod Minecraft Multipart Plugin is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MCFrames/]: Mod MCFrames is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [ForgeRelocation/]: Mod ForgeRelocation is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [RelocationFMP/]: Mod RelocationFMP is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [MrTJPCore/]: Mod MrTJPCore is missing a pack.mcmeta file, substituting a dummy one
+[13:41:57] [Client thread/DEBUG] [FML/]: Bar Finished: Loading took 134.199s
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: The following texture errors were found.
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   DOMAIN minecraft
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: --------------------------------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   domain minecraft is missing 5 textures
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     domain minecraft has 5 locations:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       unknown resourcepack type net.minecraft.client.resources.DefaultResourcePack : Default
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod Botania resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\Botania r1.8-249.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod IGWMod resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\IGW-Mod-1.7.10-1.1.12-34-universal.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod IC2 resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\industrialcraft-2-2.2.827-experimental.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod journeymap resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\journeymap-1.7.10-5.1.4p2-unlimited.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     The missing resources for domain minecraft are:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/blocks/MISSING_ICON_BLOCK_1113_null.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/items/MISSING_ICON_ITEM_4657_decowand.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/blocks/planks.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/items/MISSING_ICON_BLOCK_607_gaiaHeadBlock_skeleton.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/blocks/TConIntegration.bedrock.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     No other errors exist for domain minecraft
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   DOMAIN botania
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: --------------------------------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   domain botania is missing 1 texture
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     domain botania has 1 location:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod Botania resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\Botania r1.8-249.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     The missing resources for domain botania are:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/blocks/alt/clayconiaChibi.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     No other errors exist for domain botania
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   DOMAIN draconicevolution
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: --------------------------------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   domain draconicevolution is missing 1 texture
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     domain draconicevolution has 2 locations:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod DraconicEvolution resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\Draconic-Evolution-1.7.10-1.0.2h.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       resource pack at path D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\config\draconicevolution\resources
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     The missing resources for domain draconicevolution are:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/items/chaosFragment.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     No other errors exist for domain draconicevolution
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   DOMAIN missing_icon_item_4972_extrautils
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: --------------------------------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   domain missing_icon_item_4972_extrautils is missing 1 texture
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     domain missing_icon_item_4972_extrautils is missing a resource manager - it is probably a side-effect of automatic texture processing
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     The missing resources for domain missing_icon_item_4972_extrautils are:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/items/lawSword.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     No other errors exist for domain missing_icon_item_4972_extrautils
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   DOMAIN immersiveengineering
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: --------------------------------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   domain immersiveengineering is missing 3 textures
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     domain immersiveengineering has 1 location:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod ImmersiveEngineering resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\ImmersiveEngineering-0.7.7.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     The missing resources for domain immersiveengineering are:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/revolvers/revolver_rose.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/blocks/metal2_skycrateDispenser.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/revolvers/revolver_tesla.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     No other errors exist for domain immersiveengineering
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   DOMAIN harvestcraft
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: --------------------------------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   domain harvestcraft is missing 1 texture
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     domain harvestcraft has 1 location:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod harvestcraft resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\Pam's HarvestCraft 1.7.10Lb.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     The missing resources for domain harvestcraft are:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/items/chocolaterollItem.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     No other errors exist for domain harvestcraft
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   DOMAIN missing_icon_item_4989_extrautils
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: --------------------------------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   domain missing_icon_item_4989_extrautils is missing 1 texture
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     domain missing_icon_item_4989_extrautils is missing a resource manager - it is probably a side-effect of automatic texture processing
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     The missing resources for domain missing_icon_item_4989_extrautils are:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/items/microblocks.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     No other errors exist for domain missing_icon_item_4989_extrautils
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   DOMAIN chisel
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: --------------------------------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   domain chisel is missing 1 texture
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     domain chisel has 1 location:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod chisel resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\Chisel-2.9.5.11.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     The missing resources for domain chisel are:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/blocks/endstone/EnderFrame.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     No other errors exist for domain chisel
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   DOMAIN buildcraft
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: --------------------------------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:   domain buildcraft is missing 2 textures
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     domain buildcraft has 7 locations:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod BuildCraft|Core resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\buildcraft-7.1.23.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod BuildCraft|Transport resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\buildcraft-7.1.23.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod BuildCraft|Factory resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\buildcraft-7.1.23.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod BuildCraft|Silicon resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\buildcraft-7.1.23.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod BuildCraft|Robotics resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\buildcraft-7.1.23.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod BuildCraft|Energy resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\buildcraft-7.1.23.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       mod BuildCraft|Builders resources at D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\mods\buildcraft-7.1.23.jar
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     The missing resources for domain buildcraft are:
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/items/triggers/trigger_machine_active.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:       textures/items/triggers/trigger_machine_inactive.png
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: -------------------------
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]:     No other errors exist for domain buildcraft
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: ==================================================
+[13:41:57] [Client thread/ERROR] [TEXTURE ERRORS/]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[13:41:57] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[13:41:57] [IC2 audio init thread/DEBUG] [IC2.Audio/]: IC2 audio ready.
+[13:41:58] [Client thread/INFO] [journeymap/]: Loading blocks and textures...
+[13:41:58] [Client thread/INFO] [journeymap/]: Built BlockMD cache (6644) : BlockMD.reset count 1 avg 46.86ms
+[13:41:58] [Client thread/INFO] [journeymap/]: initBlocksTexture: 4096x2048 loaded in 94.205794ms
+[13:41:58] [Client thread/INFO] [journeymap/]: Existing color palette's resource packs and mod names match current loadout.
+[13:41:58] [Client thread/INFO] [journeymap/]: Loaded 5844 block colors from color palette file in 9ms: D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\colorpalette.json
+[13:41:58] [Client thread/INFO] [journeymap/]: Initialized 50 block colors from mods and resource packs in 14ms
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [DraconicEvolution:reactorCore:0] (Transparency,Error)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [GalacticraftCore:tile.viewScreen:0] (Transparency,Error)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [DraconicEvolution:reactorStabilizer:0] (Transparency,Error)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [ForgeMultipart:block:0] (Transparency,Error)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [DraconicEvolution:reactorEnergyInjector:0] (Transparency,Error)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [chisel:glass_pane:4] (OpenToSky,Transparency,Error,TransparentRoof)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [EnderIO:blockFusedQuartz:1] (OpenToSky,Transparency,Error,TransparentRoof)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [EnderIO:blockFusedQuartz:3] (OpenToSky,Transparency,Error,TransparentRoof)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [DraconicEvolution:portal:0] (Transparency,Error)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [DraconicEvolution:chaosCrystal:0] (Transparency,Error)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [EnderIO:blockFusedQuartz:5] (OpenToSky,Transparency,Error,TransparentRoof)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:0] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:2] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:1] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:4] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:3] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:6] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:5] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:8] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:7] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:10] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:9] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:12] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:11] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:14] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:13] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:58] [Client thread/WARN] [journeymap/]: Block with Error flag won't be saved to color palette: BlockMD [Botania:buriedPetals:15] (NoShadow,Transparency,Error,Plant,NoTopo)
+[13:41:59] [Client thread/INFO] [journeymap/]: Color palette file generated with 5844 colors in 114ms for: D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\colorpalette.json
+[13:41:59] [Client thread/INFO] [journeymap/]: Updated color palette file: D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\colorpalette.json
