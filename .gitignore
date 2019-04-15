@@ -1,4 +1,6 @@
-
+.minecraft/usernamecache.json
+.minecraft/minetweaker.log
+.minecraft/servers.dat
 .minecraft/saves/
 .minecraft/journeymap/
 .minecraft/logs/
@@ -7,7 +9,6 @@
 .minecraft/resourcepacks/
 .minecraft/screenshots/
 .minecraft/texturepacks/
-.minecraft/usernamecache.json
-.minecraft/servers.dat
 .minecraft/server-resource-packs/
+*.log
 .minecraft/minetweaker.log
