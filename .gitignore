@@ -1,4 +1,9 @@
 
-.minecraft/saves/NEI/
+.minecraft/saves/
 .minecraft/journeymap/
 .minecraft/logs/
+.minecraft/crash-reports/
+.minecraft/local/
+.minecraft/resourcepacks/
+.minecraft/screenshots/
+.minecraft/texturepacks/
