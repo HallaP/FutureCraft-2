@@ -1,10 +1,10 @@
-#Mon Apr 15 08:57:05 CEST 2019
+#Tue Apr 16 07:24:37 CEST 2019
 TexMinFilB=0
 shadowResMul=1.0
 tweakBlockDamage=false
 TexMagFilB=0
-oldLighting=false
 handDepthMul=0.125
+oldLighting=false
 shaderPack=(none)
 TexMinFilS=0
 renderResMul=1.0
@@ -12,6 +12,6 @@ TexMagFilS=0
 TexMinFilN=0
 shadowClipFrustrum=true
 TexMagFilN=0
-normalMapEnabled=true
 cloudShadow=true
+normalMapEnabled=true
 specularMapEnabled=true

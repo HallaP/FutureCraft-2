@@ -1,12 +1,12 @@
-[16:27:36] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[16:27:36] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[16:27:36] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.core.config
-[16:27:36] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.fullmap.config
-[16:27:36] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.minimap.config
-[16:27:36] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.minimap2.config
-[16:27:36] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.webmap.config
-[16:27:36] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.waypoint.config
-[16:27:36] [Client thread/INFO] [?] Version: JourneyMap 5.1.4p2 Unlimited, built with Forge 10.13.4.1558
+[06:58:26] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[06:58:26] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[06:58:26] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.core.config
+[06:58:26] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.fullmap.config
+[06:58:26] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.minimap.config
+[06:58:26] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.minimap2.config
+[06:58:26] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.webmap.config
+[06:58:26] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\config\5.1\journeymap.waypoint.config
+[06:58:26] [Client thread/INFO] [?] Version: JourneyMap 5.1.4p2 Unlimited, built with Forge 10.13.4.1558
 Forge: 10.13.4.1614
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
 Unlimited Features: 
@@ -21,23 +21,22 @@ FullMapProperties{entityIconSetName=3D, showAnimals=true, showMobs=true, showPet
 WaypointProperties{autoHideLabel=true, beaconEnabled=true, boldLabel=false, createDeathpoints=true, fontScale=2, managerEnabled=true, maxDistance=0, name=waypoint, showDistance=true, showName=true, showRotatingBeam=false, showStaticBeam=true, showTexture=true, textureSmall=true}
 WebMapProperties: , enabled=true, port=8737, showMobs=true, showAnimals=true, showVillagers=true, showPets=true, showPlayers=true, showWaypoints=true, entityIconSetName=2D
 CoreProperties{announceMod=true, autoMapPoll=2000, browserPoll=2000, cacheAnimalsData=3100, cacheMobsData=3000, cachePlayerData=1000, cachePlayersData=2000, cacheVillagersData=2200, caveIgnoreGlass=true, isUpdateCheckEnabled=true, renderDelay=2, hideSneakingEntities=true, logLevel=INFO, mapAntialiasing=true, mapBathymetry=false, mapCaveLighting=true, mapCrops=true, mapPlants=false, mapPlantShadows=false, mapSurfaceAboveCaves=true, tileHighDisplayQuality=true, mapTransparency=true, maxAnimalsData=32, maxMobsData=32, maxPlayersData=32, maxVillagersData=32, optionsManagerViewed=5.1.4p2, radarLateralDistance=64, radarVerticalDistance=16, recordCacheStats=false, renderOverlayEventTypeName=ALL, renderOverlayPreEvent=true, renderDistanceCaveMin=3, renderDistanceCaveMax=3, renderDistanceSurfaceMin=4, renderDistanceSurfaceMax=7, revealShape=Circle, themeName=Victorian, tileRenderType=1}
-[16:27:36] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
-[16:27:45] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
-[16:27:45] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChatEventHandler registered in MinecraftForgeBus
-[16:27:45] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.StateTickHandler registered in FMLCommonHandlerBus
-[16:27:45] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WorldEventHandler registered in MinecraftForgeBus
-[16:27:45] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
-[16:27:45] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
-[16:27:45] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.TextureAtlasHandler registered in MinecraftForgeBus
-[16:27:45] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
-[16:27:45] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
-[16:27:45] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
-[16:27:45] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
-[16:27:45] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
-[16:27:45] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.webmap.config
-[16:27:45] [Client thread/INFO] [WebServer] Started webserver on port 8737
-[16:27:45] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r493.46§8ms§r
-[16:27:45] [JM-VersionCheck-3/ERROR] [VersionCheck$1] Could not check version URL
+[06:58:26] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[06:58:35] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
+[06:58:35] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChatEventHandler registered in MinecraftForgeBus
+[06:58:35] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.StateTickHandler registered in FMLCommonHandlerBus
+[06:58:35] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WorldEventHandler registered in MinecraftForgeBus
+[06:58:35] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
+[06:58:35] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
+[06:58:35] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.TextureAtlasHandler registered in MinecraftForgeBus
+[06:58:35] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[06:58:35] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
+[06:58:35] [Client thread/DEBUG] [EventHandlerManager] journeymap.client.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
+[06:58:35] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[06:58:35] [Client thread/TRACE] [ThemeFileHandler] Initializing themes ...
+[06:58:35] [Client thread/DEBUG] [PropertiesBase] Saved journeymap.webmap.config
+[06:58:35] [Client thread/INFO] [WebServer] Started webserver on port 8737
+[06:58:35] [JM-VersionCheck-3/ERROR] [VersionCheck$1] Could not check version URL
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
 	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
@@ -54,3 +53,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
 	... 7 more
+[06:58:35] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r512.6§8ms§r
