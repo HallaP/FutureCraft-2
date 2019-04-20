@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p2 Unlimited for 1.7.10 on Sat Apr 20 08:12:39 CEST 2019",
+  "generated": "Generated using JourneyMap 5.1.4p2 Unlimited for 1.7.10 on Sat Apr 20 11:05:17 CEST 2019",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -10196,12 +10196,6 @@ var colorpalette={
       "uid": "futurecraft:enderobsidian_block",
       "meta": 0,
       "color": "#2d3644"
-    },
-    {
-      "name": "Enderobsidian Block Raw",
-      "uid": "futurecraft:enderobsidian_raw",
-      "meta": 0,
-      "color": "#143335"
     },
     {
       "name": "Endstone Brick",
@@ -27079,7 +27073,7 @@ var colorpalette={
       "color": "#a579a5"
     },
     {
-      "name": "QED (Quantum Entity Device)",
+      "name": "QED (Quod Erat Demonstrandum)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -27312,6 +27306,12 @@ var colorpalette={
       "uid": "ExtraUtilities:pipes",
       "meta": 10,
       "color": "#3d3d3d"
+    },
+    {
+      "name": "Raw Enderobsidian",
+      "uid": "futurecraft:enderobsidian_raw",
+      "meta": 0,
+      "color": "#143335"
     },
     {
       "name": "Reactant Dynamo",
