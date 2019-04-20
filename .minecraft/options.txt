@@ -90,6 +90,12 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
+key_key.archimedes.up:45
+key_key.archimedes.down:44
+key_key.archimedes.brake:46
+key_key.archimedes.align:13
+key_key.archimedes.decompile:211
+key_key.archimedes.shipinv:37
 key_key.personalBackpack:48
 key_key.traincraft.horn:35
 key_key.traincraft.inventory:19
@@ -162,6 +168,7 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
+key_BetterFps:88
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0

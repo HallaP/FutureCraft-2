@@ -2,69 +2,10 @@ ERROR: system: Crop is already defined in that package
 ERROR: system: AutoSpawner is already defined in that package
 INFO: MineTweaker: Building registry
 INFO: MineTweaker: Sucessfully built item registry
-INFO: Adding minetweaker command mfr
-INFO: Removing 1 recipes
-INFO: Adding recipe for Ender Compass
-INFO: Removing recipe for Ender Compass
-INFO: Restoring 1 recipes
-INFO: Removing minetweaker command mfr
-INFO: Adding command minetweaker
-INFO: Adding minetweaker command mfr
-INFO: Removing 1 recipes
-INFO: Adding recipe for Ender Compass
-INFO: Removing recipe for Ender Compass
-INFO: Restoring 1 recipes
-INFO: Removing minetweaker command mfr
-INFO: Removing command minetweaker
-INFO: Adding command minetweaker
-INFO: Adding minetweaker command mfr
-INFO: Removing 1 recipes
-INFO: Adding recipe for Ender Compass
-INFO: Removing recipe for Ender Compass
-INFO: Restoring 1 recipes
-INFO: Removing minetweaker command mfr
-INFO: Removing command minetweaker
-INFO: Adding command minetweaker
-INFO: Adding minetweaker command mfr
-INFO: Removing 1 recipes
-INFO: Adding recipe for Ender Compass
-INFO: Removing recipe for Ender Compass
-INFO: Restoring 1 recipes
-INFO: Removing minetweaker command mfr
-INFO: Removing command minetweaker
-INFO: Adding command minetweaker
-INFO: Adding minetweaker command mfr
-INFO: Removing 1 recipes
-INFO: Adding recipe for Ender Compass
-INFO: Removing recipe for Ender Compass
-INFO: Restoring 1 recipes
-INFO: Removing minetweaker command mfr
-INFO: Removing command minetweaker
-INFO: Adding command minetweaker
-INFO: Adding minetweaker command mfr
-INFO: Removing 1 recipes
-INFO: Adding recipe for Ender Compass
-INFO: Removing recipe for Ender Compass
-INFO: Restoring 1 recipes
-INFO: Removing minetweaker command mfr
-INFO: Removing command minetweaker
-INFO: Adding command minetweaker
-INFO: Adding minetweaker command mfr
-ERROR: recipes.zs:6 > a method available but none matches the parameters (minetweaker.item.IItemStack)
-INFO: Removing 1 recipes
-INFO: Adding recipe for Ender Compass
-INFO: Removing 1 recipes
-INFO: Adding recipe for Enderobsidian Ingot
-INFO: Removing recipe for Enderobsidian Ingot
-INFO: Restoring 1 recipes
-INFO: Removing recipe for Ender Compass
-INFO: Restoring 1 recipes
-INFO: Removing minetweaker command mfr
-INFO: Removing command minetweaker
 INFO: Adding command minetweaker
 INFO: Adding minetweaker command mfr
 INFO: Removing 1 recipes
 INFO: Adding recipe for Ender Compass
 INFO: Removing 1 recipes
-INFO: Removing 9 recipes
+INFO: Removing 1 recipes
 INFO: Adding recipe for Enderobsidian Ingot
