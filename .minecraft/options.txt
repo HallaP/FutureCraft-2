@@ -98,11 +98,11 @@ key_key.archimedes.decompile:211
 key_key.archimedes.shipinv:37
 key_key.personalBackpack:48
 key_key.traincraft.horn:35
-key_key.traincraft.inventory:19
-key_key.traincraft.up:21
-key_key.traincraft.down:45
+key_key.traincraft.inventory:205
+key_key.traincraft.up:200
+key_key.traincraft.down:208
 key_key.traincraft.idle:46
-key_key.traincraft.furnace:33
+key_key.traincraft.furnace:203
 key_igwmod.keys.wiki:23
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
