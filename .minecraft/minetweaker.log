@@ -3,12 +3,15 @@ ERROR: system: AutoSpawner is already defined in that package
 INFO: MineTweaker: Building registry
 INFO: MineTweaker: Sucessfully built item registry
 INFO: Adding minetweaker command mfr
+WARNING: [ModTweaker2] Duplicate Thermal Expansion Pulverizer Recipe found for <IC2:blockOreUran>. Command ignored!
 INFO: Removing 1 recipes
 INFO: Adding recipe for Ender Compass
 INFO: Removing 1 recipes
 INFO: Removing 1 recipes
 INFO: Adding recipe for Enderobsidian Ingot
 INFO: Adding recipe for Ender Compass
+INFO: Adding thermal centrifuge recipe for [, Uranium 238]
+INFO: [Stuck] Adding thermal centrifuge recipe for [, Uranium 238]
 INFO: Removing recipe for Ender Compass
 INFO: Removing recipe for Enderobsidian Ingot
 INFO: Restoring 1 recipes
@@ -21,7 +24,7 @@ WARNING: [ModTweaker2] Duplicate Thermal Expansion Pulverizer Recipe found for <
 INFO: Removing 1 recipes
 INFO: Adding recipe for Ender Compass
 INFO: Removing 1 recipes
-INFO: Removing 1 recipes
-INFO: Adding recipe for Enderobsidian Ingot
 INFO: Adding recipe for Ender Compass
 INFO: Adding thermal centrifuge recipe for [, Uranium 238]
+WARNING: 1 modifications were stuck
+INFO: Stuck: Adding thermal centrifuge recipe for [, Uranium 238]
