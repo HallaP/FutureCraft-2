@@ -11,3 +11,7 @@ FutureCraft Test=2019=4=24=17=27
 FutureCraft Test=2019=4=29=15=3
 FutureCraft Test=2019=4=29=15=33
 FutureCraft Test=2019=4=30=16=12
+FutureCraft Test=2019=5=8=11=38
+FutureCraft Test=2019=5=9=18=49
+FutureCraft Test=2019=5=10=4=41
+FutureCraft Test=2019=5=10=5=29
