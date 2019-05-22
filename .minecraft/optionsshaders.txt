@@ -1,4 +1,4 @@
-#Fri May 10 06:29:25 CEST 2019
+#Sun May 12 07:19:39 CEST 2019
 TexMinFilB=0
 shadowResMul=1.0
 tweakBlockDamage=false
@@ -12,6 +12,6 @@ TexMagFilS=0
 TexMinFilN=0
 shadowClipFrustrum=true
 TexMagFilN=0
-normalMapEnabled=true
 cloudShadow=true
+normalMapEnabled=true
 specularMapEnabled=true

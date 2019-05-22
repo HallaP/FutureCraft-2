@@ -7,7 +7,7 @@ recipes.remove(<futurecraft:enderobsidian_ingot>);
 recipes.addShaped(<futurecraft:enderobsidian_ingot>,[[<futurecraft:enderobsidian_block>]]);
 
 val diamond = <ore:gemDiamond>;
-val head = <ore:itemHead>;
+val head = <ore:itemSkull>;
 val star = <minecraft:nether_star>;
 val heart = <TConstruct:heartCanister:1>;
 val unstableI = <ore:ingotUnstable>;

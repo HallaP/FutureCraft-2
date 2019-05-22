@@ -2,3 +2,10 @@ ERROR: system: Crop is already defined in that package
 ERROR: system: AutoSpawner is already defined in that package
 INFO: MineTweaker: Building registry
 INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Adding recipe for Ender Compass
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Adding recipe for Enderobsidian Ingot
+INFO: Adding recipe for The Heart of Indestructibility
