@@ -13,3 +13,12 @@ val heart = <TConstruct:heartCanister:1>;
 val unstableI = <ore:ingotUnstable>;
 
 recipes.addShaped(<futurecraft:indestructable_heart>, [[diamond, star, diamond], [star, heart, star], [head, unstableI, head]]);
+
+val InfinityBooster = <ae2wct:infinityBoosterCard>;
+val SixKCraftStorage = <appliedenergistics2:tile.BlockCraftingStorage:3>;
+val Pylon = <appliedenergistics2:tile.BlockSpatialPylon>;
+val QuantumSiguality = <appliedenergistics2:item.ItemMultiMaterial:48>;
+val Booster = <appliedenergistics2:item.ItemMultiMaterial:42>;
+val WAccess = <appliedenergistics2:tile.BlockWireless>;
+
+recipes.addShaped(InfinityBooster, [[Pylon, Booster, SixKCraftStorage], [QuantumSiguality, WAccess, QuantumSiguality], [SixKCraftStorage, Booster, Pylon]]);

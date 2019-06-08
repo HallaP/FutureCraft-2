@@ -173,7 +173,7 @@ key_BetterFps:88
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
-soundCategory_weather:0.5070422
+soundCategory_weather:0.75352114
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
