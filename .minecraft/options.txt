@@ -86,10 +86,13 @@ key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_ALT Key:56
-key_Boost Key:29
+key_Boost Key:54
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
+key_key.OpenTerminal:0
+key_key.OpenMagnetFilter:0
+key_key.SwitchMagnetMode:0
 key_key.hover:50
 key_key.archimedes.up:45
 key_key.archimedes.down:44
@@ -161,7 +164,7 @@ key_Zoom (MPS):21
 key_Cosmetic (MPS):-1
 key_key.cofh.empower:47
 key_key.cofh.multimode:46
-key_key.control:29
+key_key.control:157
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
