@@ -147,3 +147,15 @@ natives/OpenAL32.dll
 natives/OpenAL64.dll
 natives/swresample-ttv-0.dll
 natives/twitchsdk.dll
+instance.cfg
+.minecraft/logs/latest.log
+.minecraft/logs/fml-client-latest.log
+.minecraft/journeymap/journeymap.log
+.minecraft/journeymap/data/mp/FutureCraft~2~Server/DIM6/night/-1,0.png
+.minecraft/journeymap/data/mp/FutureCraft~2~Server/DIM6/day/-1,0.png
+.minecraft/journeymap/data/mp/FutureCraft~2~Server/DIM0/night/-1,1.png
+.minecraft/journeymap/data/mp/FutureCraft~2~Server/DIM0/night/-1,0.png
+.minecraft/journeymap/data/mp/FutureCraft~2~Server/DIM0/day/-1,1.png
+.minecraft/journeymap/data/mp/FutureCraft~2~Server/DIM0/day/-1,0.png
+.minecraft/journeymap/data/mp/FutureCraft~2~Server/DIM0/5/-1,1.png
+.minecraft/journeymap/data/mp/FutureCraft~2~Server/DIM0/4/-1,1.png

@@ -136,3 +136,17 @@ NOW: AE2 Stuff:0.5.1.61, AE2 Wireless Crafting Terminal:1.7.10-rv2-1.8.7b, Anoth
 [17:41:52] [Client thread/INFO] [ColorManager] Blocks and textures are current
 [17:41:52] [Client thread/INFO] [JourneymapClient] Mapping started in D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\data\mp\FutureCraft~2~Server\DIM0. Memory: 2822MB total, 1279MB free 
 [17:41:52] [Client thread/INFO] [ChatLog] JourneyMap: Press [J] or open browser to http://localhost:8737 
+[17:48:10] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\data\mp\FutureCraft~2~Server\DIM0
+[17:48:10] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[17:48:12] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[17:48:12] [Client thread/INFO] [WaypointStore] Loaded 49 waypoints from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\data\mp\FutureCraft~2~Server\waypoints
+[17:48:12] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[17:48:12] [Client thread/INFO] [JourneymapClient] Mapping started in D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\data\mp\FutureCraft~2~Server\DIM6. Memory: 3013MB total, 1256MB free 
+[17:58:47] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\data\mp\FutureCraft~2~Server\DIM6
+[17:58:47] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[17:58:48] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[17:58:49] [Client thread/INFO] [WaypointStore] Loaded 49 waypoints from D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\data\mp\FutureCraft~2~Server\waypoints
+[17:58:49] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[17:58:49] [Client thread/INFO] [JourneymapClient] Mapping started in D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\data\mp\FutureCraft~2~Server\DIM0. Memory: 2943MB total, 1063MB free 
+[17:59:46] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\Hopík\Dokumenty D\MultiMC\instances\FutureCraft 2\.minecraft\journeymap\data\mp\FutureCraft~2~Server\DIM0
+[17:59:47] [JM-svr-2/INFO] [WebServer] Stopped webserver without errors
